@@ -80,7 +80,7 @@ The primary study identified DPBQ as a polyploid-selective compound that trigger
 | Figure 07: Hallmark Hypoxia Pathway | Figure 08: Hallmark p53 Pathway |
 | :---: | :---: |
 | ![GSEA Hypoxia](Figures/07_gsea_hypoxia.png) | ![GSEA p53](Figures/08_gsea_p53_pathway.png) |
-| **Figure 7 Legend:** GSEA plot for MSigDB Hallmark Hypoxia pathway demonstrating strong positive enrichment (NES = 2.43, FDR < 0.001). | **Figure 8 Legend:** GSEA plot for MSigDB Hallmark p53 Pathway confirming robust apoptotic/p53 transcriptomic induction (NES = 2.02, FDR < 0.001). |
+| **Figure 7 Legend:** GSEA plot for MSigDB Hallmark Hypoxia pathway demonstrating strong positive enrichment (NES = 2.40, FDR < 0.001). | **Figure 8 Legend:** GSEA plot for MSigDB Hallmark p53 Pathway confirming robust apoptotic/p53 transcriptomic induction (NES = 2.22, FDR < 0.001). |
 
 ---
 
@@ -88,8 +88,8 @@ The primary study identified DPBQ as a polyploid-selective compound that trigger
 
 This independent bioinformatic re-analysis directly corroborates the core findings of Choudhary et al. (2016):
 
-* **Induction of Hypoxic Response:** Threshold-free GSEA revealed significant enrichment of the **Hallmark Hypoxia** gene set (NES = 2.43, FDR < 0.001). This directly supports the primary author's mechanistic observation that DPBQ mimics hypoxia-inducible responses.
-* **p53 Pathway Engagement:** GSEA confirmed strong upregulation of the **Hallmark p53 Pathway** (NES = 2.02, FDR < 0.001), supporting the phenotypic observation that DPBQ triggers polyploid cell death through p53-mediated apoptosis.
+* **Induction of Hypoxic Response:** Threshold-free GSEA revealed significant enrichment of the **Hallmark Hypoxia** gene set (NES = 2.40, FDR < 0.001). This directly supports the primary author's mechanistic observation that DPBQ mimics hypoxia-inducible responses.
+* **p53 Pathway Engagement:** GSEA confirmed strong upregulation of the **Hallmark p53 Pathway** (NES = 2.22, FDR < 0.001), supporting the phenotypic observation that DPBQ triggers polyploid cell death through p53-mediated apoptosis.
 * **Translational Relevance:** These findings confirm that short-term (6-hour) exposure to DPBQ initiates a multi-pronged stress response (hypoxia + p53 signaling) without requiring direct genotoxic DNA damage.
 
 ---
